@@ -1,0 +1,13 @@
+G:\c#\CodeChallenges\CountConstruct\bin\Debug\netcoreapp3.1\CountConstruct.exe
+G:\c#\CodeChallenges\CountConstruct\bin\Debug\netcoreapp3.1\CountConstruct.deps.json
+G:\c#\CodeChallenges\CountConstruct\bin\Debug\netcoreapp3.1\CountConstruct.runtimeconfig.json
+G:\c#\CodeChallenges\CountConstruct\bin\Debug\netcoreapp3.1\CountConstruct.runtimeconfig.dev.json
+G:\c#\CodeChallenges\CountConstruct\bin\Debug\netcoreapp3.1\CountConstruct.dll
+G:\c#\CodeChallenges\CountConstruct\bin\Debug\netcoreapp3.1\CountConstruct.pdb
+G:\c#\CodeChallenges\CountConstruct\obj\Debug\netcoreapp3.1\CountConstruct.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\CodeChallenges\CountConstruct\obj\Debug\netcoreapp3.1\CountConstruct.AssemblyInfoInputs.cache
+G:\c#\CodeChallenges\CountConstruct\obj\Debug\netcoreapp3.1\CountConstruct.AssemblyInfo.cs
+G:\c#\CodeChallenges\CountConstruct\obj\Debug\netcoreapp3.1\CountConstruct.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\CountConstruct\obj\Debug\netcoreapp3.1\CountConstruct.dll
+G:\c#\CodeChallenges\CountConstruct\obj\Debug\netcoreapp3.1\CountConstruct.pdb
+G:\c#\CodeChallenges\CountConstruct\obj\Debug\netcoreapp3.1\CountConstruct.genruntimeconfig.cache

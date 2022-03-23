@@ -1,0 +1,10 @@
+G:\c#\CodeChallenges\KnightProbability\bin\Debug\KnightProbability.exe.config
+G:\c#\CodeChallenges\KnightProbability\bin\Debug\KnightProbability.exe
+G:\c#\CodeChallenges\KnightProbability\bin\Debug\KnightProbability.pdb
+G:\c#\CodeChallenges\KnightProbability\obj\Debug\KnightProbability.Form1.resources
+G:\c#\CodeChallenges\KnightProbability\obj\Debug\KnightProbability.Properties.Resources.resources
+G:\c#\CodeChallenges\KnightProbability\obj\Debug\KnightProbability.csproj.GenerateResource.cache
+G:\c#\CodeChallenges\KnightProbability\obj\Debug\KnightProbability.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\KnightProbability\obj\Debug\KnightProbability.exe
+G:\c#\CodeChallenges\KnightProbability\obj\Debug\KnightProbability.pdb
+G:\c#\CodeChallenges\KnightProbability\obj\Debug\KnightProbability.csproj.AssemblyReference.cache

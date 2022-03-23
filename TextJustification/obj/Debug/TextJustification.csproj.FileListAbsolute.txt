@@ -1,0 +1,9 @@
+G:\c#\CodeChallenges\TextJustification\bin\Debug\TextJustification.exe.config
+G:\c#\CodeChallenges\TextJustification\bin\Debug\TextJustification.exe
+G:\c#\CodeChallenges\TextJustification\obj\Debug\TextJustification.Form1.resources
+G:\c#\CodeChallenges\TextJustification\obj\Debug\TextJustification.Properties.Resources.resources
+G:\c#\CodeChallenges\TextJustification\obj\Debug\TextJustification.csproj.GenerateResource.cache
+G:\c#\CodeChallenges\TextJustification\obj\Debug\TextJustification.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\TextJustification\obj\Debug\TextJustification.exe
+G:\c#\CodeChallenges\TextJustification\obj\Debug\TextJustification.pdb
+G:\c#\CodeChallenges\TextJustification\bin\Debug\TextJustification.pdb

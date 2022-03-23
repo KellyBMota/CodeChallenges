@@ -1,0 +1,14 @@
+G:\c#\CodeChallenges\AllConstruct\bin\Debug\netcoreapp3.1\AllConstruct.exe
+G:\c#\CodeChallenges\AllConstruct\bin\Debug\netcoreapp3.1\AllConstruct.deps.json
+G:\c#\CodeChallenges\AllConstruct\bin\Debug\netcoreapp3.1\AllConstruct.runtimeconfig.json
+G:\c#\CodeChallenges\AllConstruct\bin\Debug\netcoreapp3.1\AllConstruct.runtimeconfig.dev.json
+G:\c#\CodeChallenges\AllConstruct\bin\Debug\netcoreapp3.1\AllConstruct.dll
+G:\c#\CodeChallenges\AllConstruct\bin\Debug\netcoreapp3.1\AllConstruct.pdb
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.csproj.AssemblyReference.cache
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.AssemblyInfoInputs.cache
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.AssemblyInfo.cs
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.dll
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.pdb
+G:\c#\CodeChallenges\AllConstruct\obj\Debug\netcoreapp3.1\AllConstruct.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+G:\c#\CodeChallenges\CanSum\bin\Debug\netcoreapp3.1\CanSum.exe
+G:\c#\CodeChallenges\CanSum\bin\Debug\netcoreapp3.1\CanSum.deps.json
+G:\c#\CodeChallenges\CanSum\bin\Debug\netcoreapp3.1\CanSum.runtimeconfig.json
+G:\c#\CodeChallenges\CanSum\bin\Debug\netcoreapp3.1\CanSum.runtimeconfig.dev.json
+G:\c#\CodeChallenges\CanSum\bin\Debug\netcoreapp3.1\CanSum.dll
+G:\c#\CodeChallenges\CanSum\bin\Debug\netcoreapp3.1\CanSum.pdb
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.csproj.AssemblyReference.cache
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.AssemblyInfoInputs.cache
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.AssemblyInfo.cs
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.dll
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.pdb
+G:\c#\CodeChallenges\CanSum\obj\Debug\netcoreapp3.1\CanSum.genruntimeconfig.cache

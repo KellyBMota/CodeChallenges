@@ -1,0 +1,13 @@
+G:\c#\CodeChallenges\BestSum\bin\Debug\netcoreapp3.1\BestSum.exe
+G:\c#\CodeChallenges\BestSum\bin\Debug\netcoreapp3.1\BestSum.deps.json
+G:\c#\CodeChallenges\BestSum\bin\Debug\netcoreapp3.1\BestSum.runtimeconfig.json
+G:\c#\CodeChallenges\BestSum\bin\Debug\netcoreapp3.1\BestSum.runtimeconfig.dev.json
+G:\c#\CodeChallenges\BestSum\bin\Debug\netcoreapp3.1\BestSum.dll
+G:\c#\CodeChallenges\BestSum\bin\Debug\netcoreapp3.1\BestSum.pdb
+G:\c#\CodeChallenges\BestSum\obj\Debug\netcoreapp3.1\BestSum.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\CodeChallenges\BestSum\obj\Debug\netcoreapp3.1\BestSum.AssemblyInfoInputs.cache
+G:\c#\CodeChallenges\BestSum\obj\Debug\netcoreapp3.1\BestSum.AssemblyInfo.cs
+G:\c#\CodeChallenges\BestSum\obj\Debug\netcoreapp3.1\BestSum.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\BestSum\obj\Debug\netcoreapp3.1\BestSum.dll
+G:\c#\CodeChallenges\BestSum\obj\Debug\netcoreapp3.1\BestSum.pdb
+G:\c#\CodeChallenges\BestSum\obj\Debug\netcoreapp3.1\BestSum.genruntimeconfig.cache

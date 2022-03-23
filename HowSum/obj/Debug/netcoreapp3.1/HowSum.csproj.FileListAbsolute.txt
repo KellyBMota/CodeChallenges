@@ -1,0 +1,14 @@
+G:\c#\CodeChallenges\HowSum\bin\Debug\netcoreapp3.1\HowSum.exe
+G:\c#\CodeChallenges\HowSum\bin\Debug\netcoreapp3.1\HowSum.deps.json
+G:\c#\CodeChallenges\HowSum\bin\Debug\netcoreapp3.1\HowSum.runtimeconfig.json
+G:\c#\CodeChallenges\HowSum\bin\Debug\netcoreapp3.1\HowSum.runtimeconfig.dev.json
+G:\c#\CodeChallenges\HowSum\bin\Debug\netcoreapp3.1\HowSum.dll
+G:\c#\CodeChallenges\HowSum\bin\Debug\netcoreapp3.1\HowSum.pdb
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.csproj.AssemblyReference.cache
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.AssemblyInfoInputs.cache
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.AssemblyInfo.cs
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.dll
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.pdb
+G:\c#\CodeChallenges\HowSum\obj\Debug\netcoreapp3.1\HowSum.genruntimeconfig.cache

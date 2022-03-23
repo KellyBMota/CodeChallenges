@@ -1,0 +1,14 @@
+G:\c#\CodeChallenges\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.exe
+G:\c#\CodeChallenges\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.deps.json
+G:\c#\CodeChallenges\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.runtimeconfig.json
+G:\c#\CodeChallenges\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.runtimeconfig.dev.json
+G:\c#\CodeChallenges\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.dll
+G:\c#\CodeChallenges\CanConstruct\bin\Debug\netcoreapp3.1\CanConstruct.pdb
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.csproj.AssemblyReference.cache
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.GeneratedMSBuildEditorConfig.editorconfig
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.AssemblyInfoInputs.cache
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.AssemblyInfo.cs
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.csproj.CoreCompileInputs.cache
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.dll
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.pdb
+G:\c#\CodeChallenges\CanConstruct\obj\Debug\netcoreapp3.1\CanConstruct.genruntimeconfig.cache
